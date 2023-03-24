@@ -45,3 +45,4 @@ const printPassTimes = function(passTimes) {
 };
 
 
+module.exports = {printPassTimes};
